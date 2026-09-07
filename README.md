@@ -1,27 +1,50 @@
-# 🎮 Steamworks
+# Steamworks
 
-**Pacotes de pós-formatação do Windows, feitos por gamers para gamers.**
+> **Essential Windows packages for Steam gaming after a fresh installation.**
 
-![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=flat-square&logo=windows&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+A curated collection of runtime packages and dependencies commonly required by **Steamworks** and **Steam games** on a freshly formatted Windows installation.
 
 ---
 
-Reúne os programas, drivers e ajustes essenciais para instalar logo após formatar o Windows — pensado para quem monta ou usa PC para jogos.
+## 📦 Releases
 
-## Como usar
+All packages are organized through **GitHub Releases**, making it easy to download and install the required dependencies.
 
-```bash
-git clone https://github.com/seu-usuario/steamworks.git
-cd steamworks
-./steamworks.exe
-```
+| Package       | Description                                 |
+| ------------- | ------------------------------------------- |
+| 🎮 Steamworks | Required runtime components for Steam games |
+| 🪟 Windows    | Common Windows runtime dependencies         |
+| ⚙️ Runtimes   | Libraries required by various games         |
 
-## Requisitos
+> New packages and updated versions may be added through new releases.
 
-- Windows 10/11
-- Permissões de administrador
+---
 
-## Licença
+## 🎯 Purpose
 
-MIT
+The goal of **Steamworks** is to provide a simple and centralized collection of the packages commonly needed after formatting Windows.
+
+**Format → Install → Play.**
+
+---
+
+## 💻 Compatibility
+
+* Windows 10
+* Windows 11
+* x64
+* x86
+
+---
+
+## 📥 Installation
+
+Download the desired package from the **[Releases](../../releases)** page and follow the instructions included with the release.
+
+---
+
+<div align="center">
+
+**Made for gamers. 🎮**
+
+</div>
