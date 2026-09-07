@@ -1,50 +1,29 @@
 # Steamworks
 
-> **Essential Windows packages for Steam gaming after a fresh installation.**
+> Essential Windows packages for Steam gaming after a fresh installation.
 
-A curated collection of runtime packages and dependencies commonly required by **Steamworks** and **Steam games** on a freshly formatted Windows installation.
-
----
+A collection of **runtime packages and dependencies** commonly required by Steamworks and Steam games.
 
 ## 📦 Releases
 
-All packages are organized through **GitHub Releases**, making it easy to download and install the required dependencies.
+Download the required packages from the **[Releases](../../releases)** page.
 
-| Package       | Description                                 |
-| ------------- | ------------------------------------------- |
-| 🎮 Steamworks | Required runtime components for Steam games |
-| 🪟 Windows    | Common Windows runtime dependencies         |
-| ⚙️ Runtimes   | Libraries required by various games         |
-
-> New packages and updated versions may be added through new releases.
-
----
+Each release contains a specific package or dependency, organized for easy installation.
 
 ## 🎯 Purpose
 
-The goal of **Steamworks** is to provide a simple and centralized collection of the packages commonly needed after formatting Windows.
+Designed to make setting up a freshly formatted Windows installation **simple and fast**.
 
-**Format → Install → Play.**
-
----
+**Format → Install → Play. 🎮**
 
 ## 💻 Compatibility
 
-* Windows 10
-* Windows 11
-* x64
-* x86
-
----
-
-## 📥 Installation
-
-Download the desired package from the **[Releases](../../releases)** page and follow the instructions included with the release.
+**Windows 10 & 11** · **x64 / x86**
 
 ---
 
 <div align="center">
 
-**Made for gamers. 🎮**
+**Made for gamers.**
 
 </div>
